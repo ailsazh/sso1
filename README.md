@@ -14,3 +14,4 @@ nothing to commit, working tree clean
 one test
 two
 three
+four
